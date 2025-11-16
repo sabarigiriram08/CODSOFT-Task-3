@@ -1,0 +1,59 @@
+lbody {
+    margin: 0;
+    padding: 0;
+    background-color: #0d1117;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    font-size: 42px;
+    margin: 0;
+    color: #58a6ff;
+}
+
+header p {
+    font-size: 18px;
+    color: #c9d1d9;
+}
+
+section {
+    width: 90%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+h2 {
+    font-size: 28px;
+    color: #58a6ff;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    color: #89b4ff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: #fff;
+}
+
+.contact p {
+    font-size: 18px;
+    color: #c9d1d9;
+}
